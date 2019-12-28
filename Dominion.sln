@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dominion.Logic", "Dominion.Logic\Dominion.Logic.csproj", "{7E970CA4-F36A-4985-A68A-BEDA81801585}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dominion.Logic.Tests", "Dominion.Logic.Tests\Dominion.Logic.Tests.csproj", "{5A46E845-D260-410C-B1CE-95E0C4A8A101}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7E970CA4-F36A-4985-A68A-BEDA81801585}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E970CA4-F36A-4985-A68A-BEDA81801585}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E970CA4-F36A-4985-A68A-BEDA81801585}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E970CA4-F36A-4985-A68A-BEDA81801585}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5A46E845-D260-410C-B1CE-95E0C4A8A101}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A46E845-D260-410C-B1CE-95E0C4A8A101}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A46E845-D260-410C-B1CE-95E0C4A8A101}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A46E845-D260-410C-B1CE-95E0C4A8A101}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CAE47560-494F-46A6-BE72-78F22B6CC928}
+	EndGlobalSection
+EndGlobal
